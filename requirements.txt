@@ -26,7 +26,7 @@ PyDispatcher==2.0.7
 pyOpenSSL==24.2.1
 queuelib==1.7.0
 requests
-supabase-py
+supabase
 requests-file==2.1.0
 Scrapy==2.11.2
 service-identity==24.1.0
