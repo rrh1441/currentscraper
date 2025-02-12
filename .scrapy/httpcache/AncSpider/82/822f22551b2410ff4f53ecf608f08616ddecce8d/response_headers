@@ -1,0 +1,16 @@
+Content-Length: 0
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: JSESSIONID=node01kxxw4b7hoj5z1vkb2uiv0s8yw5670862.node0; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: seattle_LOGGED_JSESSIONID=; Path=/; Domain=.apm.activecommunities.com; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: seattle_JSESSIONID=node0l2i7hrmmwupah23gw0cibc352387140.node0; Path=/; Domain=.apm.activecommunities.com; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: seattle_NEW_CUI_STATUS=true; Path=/; Domain=.apm.activecommunities.com; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: seattle_FORCE_ACM_SYNC_LOGIN=true; Path=/; Domain=.apm.activecommunities.com; Secure; HttpOnly
+Set-Cookie: BIGipServer~activenet~anc_prod_seattle=!L4gg4MqoTQ2iRJTpa1C4jlSFUEtPuXOWhsDiMmAKdysSP1qiP7YtGENgIazKlIkkz3DfqbrbclS+pFA=; expires=Sat, 02-Nov-2024 02:36:10 GMT; path=/; Httponly; Secure
+Set-Cookie: TS01252aa9=01921c5c3e9c0fc8dc13bd61b1d4479f9a70f424c331c0cc166d72d6e245c1325fe9056a097040c6b66b0f7b8c5d9d8a456c0794430932e877b85c71ee40a848dd3011131c8c0ef97dfcea53e242901bfb6c3ca184; Path=/
+Set-Cookie: TS01ee6c1c=01921c5c3eb1867e77700eb1ebc33de823ba01e1f331c0cc166d72d6e245c1325fe9056a09b6ae00b10c5d277d447191a9045db2f51c9d0cdd0908cd36fb2f1f006ab61ec9ee7c05c5975c0f8de8af4e49b3b84bcbdaf4513157d841222e914eb6999e0e1055f0532c3c484cdfc202426952f7dc97; path=/; domain=.apm.activecommunities.com
+Set-Cookie: BIGipServer~activenet~activenet_newcui_prod_pool_ats=!2+9Ojj297alxPwnpa1C4jlSFUEtPudgZtckVWLBAAPWV52sh9a2rmkhs7c0guduhMXlu9TjTdSqCMw==; expires=Sat, 02-Nov-2024 02:36:10 GMT; path=/; Httponly; Secure
+Location: https://apm.activecommunities.com/seattle/ActiveNet_Login
+Server-Id: 103
+Date: Fri, 01 Nov 2024 22:36:10 GMT
+Age: 0
+Server: ATS/8.1.9

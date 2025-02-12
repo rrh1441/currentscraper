@@ -1,0 +1,15 @@
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [ 'build', '-t', 'gcr.io/$PROJECT_ID/anc-spider', '.' ]
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [ 'push', 'gcr.io/$quixotic-art-437220-m5/anc-spider' ]
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: 'bash'
+    args: [
+      '-c', 
+      'gcloud run deploy anc-spider --image gcr.io/$quixotic-art-437220-m5/anc-spider --platform managed --region us-west1 --allow-unauthenticated'
+    ]
+images:
+  - 'gcr.io/$quixotic-art-437220-m5/anc-spider'
+
+

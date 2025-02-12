@@ -1,0 +1,15 @@
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: application/json
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Set-Cookie: BIGipServer~activenet~anc_prod_seattle=!W++iq4GoFd8fDgLpa1C4jlSFUEtPuUlgxTT95doFx9K5MAwM8+Xcn9fJIeGssG8FyvdPCVYfH9Lcmyw=; expires=Sat, 02-Nov-2024 04:29:31 GMT; path=/; Httponly; Secure
+Set-Cookie: TS01252aa9=01921c5c3ed3cbd9ada9b8d392755068c9a35ed896ff6e654fa2b368f2e787f78bd3ae3f2e44f7585a631c750d494faea27d1383fd30388d2720996479bce8175dae8de0a4a7e35fdbabd9cbdf63fdb3103e647d10; Path=/
+Set-Cookie: BIGipServer~activenet~activenet_newcui_prod_pool_ats=!8lXQJ1JeT1mb3wrpa1C4jlSFUEtPuds/2eOTCnH12uxvDkI/4dKLRE9lcgZfUY7QjbWUHABRdzYOjg==; expires=Sat, 02-Nov-2024 04:29:31 GMT; path=/; Httponly; Secure
+Server-Id: 103
+Date: Sat, 02 Nov 2024 00:29:31 GMT
+Age: 0
+Server: ATS/8.1.9
